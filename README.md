@@ -19,5 +19,13 @@ A production-grade AI support agent built with FastAPI and LangChain. Designed t
 
 1. Clone the repo
 2. Install dependencies:
-   ```bash
    pip install -r requirements.txt
+
+3. Create a .env file with your OPENAI_API_KEY
+4. Run the server:
+   python main.py
+
+5. Visit http://127.0.0.1:8001/docs
+
+## 📬 Contact
+Built by Vignesh | Open to Remote Opportunities
